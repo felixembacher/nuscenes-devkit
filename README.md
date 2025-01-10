@@ -2,25 +2,28 @@
 Welcome to the Motionalᵀᴹ nuTonomy® downloadable driverless vehicle software page. Click on the green box above labeled "Code" to download a copy of the software described below.
 
 
+
 ![](https://www.nuscenes.org/public/images/road.jpg)
 
 ## Overview
-- [Changelog](#changelog)
-- [Devkit setup](#devkit-setup)
-- [nuImages](#nuimages)
-  - [nuImages setup](#nuimages-setup) 
-  - [Getting started with nuImages](#getting-started-with-nuimages)
-- [nuScenes](#nuscenes)
-  - [nuScenes setup](#nuscenes-setup)
-  - [Panoptic nuScenes](#panoptic-nuscenes)
-  - [nuScenes-lidarseg](#nuscenes-lidarseg)
-  - [Prediction challenge](#prediction-challenge)
-  - [CAN bus expansion](#can-bus-expansion)
-  - [Map expansion](#map-expansion)
-  - [Map versions](#map-versions)
-  - [Getting started with nuScenes](#getting-started-with-nuscenes)
-- [Known issues](#known-issues)
-- [Citation](#citation)
+- [ nuScenes™ devkit](#-nuscenes-devkit)
+  - [Overview](#overview)
+  - [Changelog](#changelog)
+  - [Devkit setup](#devkit-setup)
+  - [nuImages](#nuimages)
+    - [nuImages setup](#nuimages-setup)
+    - [Getting started with nuImages](#getting-started-with-nuimages)
+  - [nuScenes](#nuscenes)
+    - [nuScenes setup](#nuscenes-setup)
+    - [Panoptic nuScenes](#panoptic-nuscenes)
+    - [nuScenes-lidarseg](#nuscenes-lidarseg)
+    - [Prediction challenge](#prediction-challenge)
+    - [CAN bus expansion](#can-bus-expansion)
+    - [Map expansion](#map-expansion)
+    - [Map versions](#map-versions)
+    - [Getting started with nuScenes](#getting-started-with-nuscenes)
+  - [Known issues](#known-issues)
+  - [Citation](#citation)
 
 ## Changelog
 - Sep. 25, 2023: Devkit v1.1.11: Specify version for various pip requirements.
